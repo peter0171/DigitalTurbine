@@ -1,0 +1,19 @@
+F:\programming training\传智博客\DigitalTurbine\DAL\bin\Debug\DAL.dll
+F:\programming training\传智博客\DigitalTurbine\DAL\bin\Debug\DAL.pdb
+F:\programming training\传智博客\DigitalTurbine\DAL\obj\Debug\DAL.csprojResolveAssemblyReference.cache
+F:\programming training\传智博客\DigitalTurbine\DAL\obj\Debug\DAL.dll
+F:\programming training\传智博客\DigitalTurbine\DAL\obj\Debug\DAL.pdb
+C:\Users\Jay\Desktop\DigitalTurbine\DigitalTurbine\DAL\bin\Debug\DAL.dll
+C:\Users\Jay\Desktop\DigitalTurbine\DigitalTurbine\DAL\bin\Debug\DAL.pdb
+C:\Users\Jay\Desktop\DigitalTurbine\DigitalTurbine\DAL\obj\Debug\DAL.dll
+C:\Users\Jay\Desktop\DigitalTurbine\DigitalTurbine\DAL\obj\Debug\DAL.pdb
+C:\Users\Jay\Desktop\DigitalTurbine\DigitalTurbine\DAL\obj\Debug\DAL.csprojResolveAssemblyReference.cache
+C:\Users\Peter\Documents\Tencent Files\175643579\FileRecv\DigitalTurbine\DigitalTurbine\DAL\bin\Debug\DAL.dll
+C:\Users\Peter\Documents\Tencent Files\175643579\FileRecv\DigitalTurbine\DigitalTurbine\DAL\bin\Debug\DAL.pdb
+C:\Users\Peter\Documents\Tencent Files\175643579\FileRecv\DigitalTurbine\DigitalTurbine\DAL\obj\Debug\DAL.dll
+C:\Users\Peter\Documents\Tencent Files\175643579\FileRecv\DigitalTurbine\DigitalTurbine\DAL\obj\Debug\DAL.pdb
+F:\DigitalTurbine\DigitalTurbine\DAL\bin\Debug\DAL.dll
+F:\DigitalTurbine\DigitalTurbine\DAL\bin\Debug\DAL.pdb
+F:\DigitalTurbine\DigitalTurbine\DAL\obj\Debug\DAL.csprojResolveAssemblyReference.cache
+F:\DigitalTurbine\DigitalTurbine\DAL\obj\Debug\DAL.dll
+F:\DigitalTurbine\DigitalTurbine\DAL\obj\Debug\DAL.pdb

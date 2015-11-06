@@ -1,0 +1,26 @@
+F:\programming training\传智博客\DigitalTurbine\MODEL\obj\Debug\MODEL.csprojResolveAssemblyReference.cache
+F:\programming training\传智博客\DigitalTurbine\MODEL\bin\Debug\MODEL.dll
+F:\programming training\传智博客\DigitalTurbine\MODEL\bin\Debug\MODEL.pdb
+F:\programming training\传智博客\DigitalTurbine\MODEL\obj\Debug\MODEL.dll
+F:\programming training\传智博客\DigitalTurbine\MODEL\obj\Debug\MODEL.pdb
+C:\Users\Jay\Desktop\DigitalTurbine\DigitalTurbine\MODEL\bin\Debug\MODEL.dll
+C:\Users\Jay\Desktop\DigitalTurbine\DigitalTurbine\MODEL\bin\Debug\MODEL.pdb
+C:\Users\Jay\Desktop\DigitalTurbine\DigitalTurbine\MODEL\bin\Debug\Common.dll
+C:\Users\Jay\Desktop\DigitalTurbine\DigitalTurbine\MODEL\bin\Debug\Common.pdb
+C:\Users\Jay\Desktop\DigitalTurbine\DigitalTurbine\MODEL\obj\Debug\MODEL.csprojResolveAssemblyReference.cache
+C:\Users\Jay\Desktop\DigitalTurbine\DigitalTurbine\MODEL\obj\Debug\MODEL.dll
+C:\Users\Jay\Desktop\DigitalTurbine\DigitalTurbine\MODEL\obj\Debug\MODEL.pdb
+C:\Users\Peter\Documents\Tencent Files\175643579\FileRecv\DigitalTurbine\DigitalTurbine\MODEL\bin\Debug\MODEL.dll
+C:\Users\Peter\Documents\Tencent Files\175643579\FileRecv\DigitalTurbine\DigitalTurbine\MODEL\bin\Debug\MODEL.pdb
+C:\Users\Peter\Documents\Tencent Files\175643579\FileRecv\DigitalTurbine\DigitalTurbine\MODEL\bin\Debug\Common.dll
+C:\Users\Peter\Documents\Tencent Files\175643579\FileRecv\DigitalTurbine\DigitalTurbine\MODEL\bin\Debug\Common.pdb
+C:\Users\Peter\Documents\Tencent Files\175643579\FileRecv\DigitalTurbine\DigitalTurbine\MODEL\obj\Debug\MODEL.csprojResolveAssemblyReference.cache
+C:\Users\Peter\Documents\Tencent Files\175643579\FileRecv\DigitalTurbine\DigitalTurbine\MODEL\obj\Debug\MODEL.dll
+C:\Users\Peter\Documents\Tencent Files\175643579\FileRecv\DigitalTurbine\DigitalTurbine\MODEL\obj\Debug\MODEL.pdb
+F:\DigitalTurbine\DigitalTurbine\MODEL\bin\Debug\MODEL.dll
+F:\DigitalTurbine\DigitalTurbine\MODEL\bin\Debug\MODEL.pdb
+F:\DigitalTurbine\DigitalTurbine\MODEL\bin\Debug\Common.dll
+F:\DigitalTurbine\DigitalTurbine\MODEL\bin\Debug\Common.pdb
+F:\DigitalTurbine\DigitalTurbine\MODEL\obj\Debug\MODEL.csprojResolveAssemblyReference.cache
+F:\DigitalTurbine\DigitalTurbine\MODEL\obj\Debug\MODEL.dll
+F:\DigitalTurbine\DigitalTurbine\MODEL\obj\Debug\MODEL.pdb

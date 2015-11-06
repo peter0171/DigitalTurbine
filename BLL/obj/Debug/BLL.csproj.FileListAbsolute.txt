@@ -1,0 +1,32 @@
+F:\programming training\传智博客\DigitalTurbine\BLL\bin\Debug\BLL.dll
+F:\programming training\传智博客\DigitalTurbine\BLL\bin\Debug\BLL.pdb
+F:\programming training\传智博客\DigitalTurbine\BLL\obj\Debug\BLL.csprojResolveAssemblyReference.cache
+F:\programming training\传智博客\DigitalTurbine\BLL\obj\Debug\BLL.dll
+F:\programming training\传智博客\DigitalTurbine\BLL\obj\Debug\BLL.pdb
+C:\Users\Jay\Desktop\DigitalTurbine\DigitalTurbine\BLL\bin\Debug\BLL.dll
+C:\Users\Jay\Desktop\DigitalTurbine\DigitalTurbine\BLL\bin\Debug\BLL.pdb
+C:\Users\Jay\Desktop\DigitalTurbine\DigitalTurbine\BLL\obj\Debug\BLL.dll
+C:\Users\Jay\Desktop\DigitalTurbine\DigitalTurbine\BLL\obj\Debug\BLL.pdb
+C:\Users\Jay\Desktop\DigitalTurbine\DigitalTurbine\BLL\obj\Debug\BLL.csprojResolveAssemblyReference.cache
+C:\Users\Jay\Desktop\DigitalTurbine\DigitalTurbine\BLL\bin\Debug\Common.dll
+C:\Users\Jay\Desktop\DigitalTurbine\DigitalTurbine\BLL\bin\Debug\MODEL.dll
+C:\Users\Jay\Desktop\DigitalTurbine\DigitalTurbine\BLL\bin\Debug\Common.pdb
+C:\Users\Jay\Desktop\DigitalTurbine\DigitalTurbine\BLL\bin\Debug\MODEL.pdb
+C:\Users\Peter\Documents\Tencent Files\175643579\FileRecv\DigitalTurbine\DigitalTurbine\BLL\bin\Debug\BLL.dll
+C:\Users\Peter\Documents\Tencent Files\175643579\FileRecv\DigitalTurbine\DigitalTurbine\BLL\bin\Debug\BLL.pdb
+C:\Users\Peter\Documents\Tencent Files\175643579\FileRecv\DigitalTurbine\DigitalTurbine\BLL\bin\Debug\Common.dll
+C:\Users\Peter\Documents\Tencent Files\175643579\FileRecv\DigitalTurbine\DigitalTurbine\BLL\bin\Debug\MODEL.dll
+C:\Users\Peter\Documents\Tencent Files\175643579\FileRecv\DigitalTurbine\DigitalTurbine\BLL\bin\Debug\Common.pdb
+C:\Users\Peter\Documents\Tencent Files\175643579\FileRecv\DigitalTurbine\DigitalTurbine\BLL\bin\Debug\MODEL.pdb
+C:\Users\Peter\Documents\Tencent Files\175643579\FileRecv\DigitalTurbine\DigitalTurbine\BLL\obj\Debug\BLL.csprojResolveAssemblyReference.cache
+C:\Users\Peter\Documents\Tencent Files\175643579\FileRecv\DigitalTurbine\DigitalTurbine\BLL\obj\Debug\BLL.dll
+C:\Users\Peter\Documents\Tencent Files\175643579\FileRecv\DigitalTurbine\DigitalTurbine\BLL\obj\Debug\BLL.pdb
+F:\DigitalTurbine\DigitalTurbine\BLL\bin\Debug\BLL.dll
+F:\DigitalTurbine\DigitalTurbine\BLL\bin\Debug\BLL.pdb
+F:\DigitalTurbine\DigitalTurbine\BLL\bin\Debug\Common.dll
+F:\DigitalTurbine\DigitalTurbine\BLL\bin\Debug\MODEL.dll
+F:\DigitalTurbine\DigitalTurbine\BLL\bin\Debug\Common.pdb
+F:\DigitalTurbine\DigitalTurbine\BLL\bin\Debug\MODEL.pdb
+F:\DigitalTurbine\DigitalTurbine\BLL\obj\Debug\BLL.csprojResolveAssemblyReference.cache
+F:\DigitalTurbine\DigitalTurbine\BLL\obj\Debug\BLL.dll
+F:\DigitalTurbine\DigitalTurbine\BLL\obj\Debug\BLL.pdb

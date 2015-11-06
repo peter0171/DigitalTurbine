@@ -1,0 +1,24 @@
+﻿@model IEnumerable<MODEL.Person>
+@{
+    ViewBag.Title = "Page1";
+}
+
+<div id="grid">
+    <table>
+        <tr>
+            <th>Name</th>
+            <th>Age</th>
+            <th>Height</th>
+          
+        </tr>
+        @foreach (var item in Model)
+        {
+            <tr>
+                <td class="left">@item.Name</td>
+                <td class="left">@item.Age</td>
+                <td class="left">@item.Height</td>
+               
+            </tr>
+        }
+    </table>
+</div>

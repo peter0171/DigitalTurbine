@@ -1,0 +1,188 @@
+F:\programming training\传智博客\DigitalTurbine\WebApp\bin\WebApp.dll
+F:\programming training\传智博客\DigitalTurbine\WebApp\bin\WebApp.pdb
+F:\programming training\传智博客\DigitalTurbine\WebApp\bin\Antlr3.Runtime.dll
+F:\programming training\传智博客\DigitalTurbine\WebApp\bin\EntityFramework.dll
+F:\programming training\传智博客\DigitalTurbine\WebApp\bin\Microsoft.Web.Infrastructure.dll
+F:\programming training\传智博客\DigitalTurbine\WebApp\bin\Newtonsoft.Json.dll
+F:\programming training\传智博客\DigitalTurbine\WebApp\bin\System.Web.Mvc.dll
+F:\programming training\传智博客\DigitalTurbine\WebApp\bin\System.Web.Optimization.dll
+F:\programming training\传智博客\DigitalTurbine\WebApp\bin\System.Web.Providers.dll
+F:\programming training\传智博客\DigitalTurbine\WebApp\bin\System.Web.Razor.dll
+F:\programming training\传智博客\DigitalTurbine\WebApp\bin\System.Web.WebPages.Deployment.dll
+F:\programming training\传智博客\DigitalTurbine\WebApp\bin\System.Web.WebPages.dll
+F:\programming training\传智博客\DigitalTurbine\WebApp\bin\System.Web.WebPages.Razor.dll
+F:\programming training\传智博客\DigitalTurbine\WebApp\bin\WebGrease.dll
+F:\programming training\传智博客\DigitalTurbine\WebApp\bin\EntityFramework.xml
+F:\programming training\传智博客\DigitalTurbine\WebApp\bin\Newtonsoft.Json.xml
+F:\programming training\传智博客\DigitalTurbine\WebApp\bin\System.Web.Mvc.xml
+F:\programming training\传智博客\DigitalTurbine\WebApp\bin\System.Web.Razor.xml
+F:\programming training\传智博客\DigitalTurbine\WebApp\bin\System.Web.WebPages.xml
+F:\programming training\传智博客\DigitalTurbine\WebApp\bin\System.Web.WebPages.Deployment.xml
+F:\programming training\传智博客\DigitalTurbine\WebApp\bin\System.Web.WebPages.Razor.xml
+F:\programming training\传智博客\DigitalTurbine\WebApp\bin\zh-Hans\EntityFramework.resources.dll
+F:\programming training\传智博客\DigitalTurbine\WebApp\bin\zh-Hans\System.Web.Mvc.resources.dll
+F:\programming training\传智博客\DigitalTurbine\WebApp\bin\zh-Hans\System.Web.Optimization.resources.dll
+F:\programming training\传智博客\DigitalTurbine\WebApp\bin\zh-Hans\System.Web.Providers.resources.dll
+F:\programming training\传智博客\DigitalTurbine\WebApp\bin\zh-Hans\System.Web.Razor.resources.dll
+F:\programming training\传智博客\DigitalTurbine\WebApp\bin\zh-Hans\System.Web.WebPages.resources.dll
+F:\programming training\传智博客\DigitalTurbine\WebApp\bin\zh-Hans\System.Web.WebPages.Deployment.resources.dll
+F:\programming training\传智博客\DigitalTurbine\WebApp\bin\zh-Hans\System.Web.WebPages.Razor.resources.dll
+F:\programming training\传智博客\DigitalTurbine\WebApp\obj\Debug\WebApp.csprojResolveAssemblyReference.cache
+F:\programming training\传智博客\DigitalTurbine\WebApp\obj\Debug\WebApp.dll
+F:\programming training\传智博客\DigitalTurbine\WebApp\obj\Debug\WebApp.pdb
+C:\Users\Jay\Desktop\DigitalTurbine\DigitalTurbine\WebApp\bin\WebApp.dll.config
+C:\Users\Jay\Desktop\DigitalTurbine\DigitalTurbine\WebApp\bin\WebApp.dll
+C:\Users\Jay\Desktop\DigitalTurbine\DigitalTurbine\WebApp\bin\WebApp.pdb
+C:\Users\Jay\Desktop\DigitalTurbine\DigitalTurbine\WebApp\bin\Antlr3.Runtime.dll
+C:\Users\Jay\Desktop\DigitalTurbine\DigitalTurbine\WebApp\bin\Common.dll
+C:\Users\Jay\Desktop\DigitalTurbine\DigitalTurbine\WebApp\bin\EntityFramework.dll
+C:\Users\Jay\Desktop\DigitalTurbine\DigitalTurbine\WebApp\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Jay\Desktop\DigitalTurbine\DigitalTurbine\WebApp\bin\MODEL.dll
+C:\Users\Jay\Desktop\DigitalTurbine\DigitalTurbine\WebApp\bin\Newtonsoft.Json.dll
+C:\Users\Jay\Desktop\DigitalTurbine\DigitalTurbine\WebApp\bin\System.Net.Http.Formatting.dll
+C:\Users\Jay\Desktop\DigitalTurbine\DigitalTurbine\WebApp\bin\System.Web.Http.dll
+C:\Users\Jay\Desktop\DigitalTurbine\DigitalTurbine\WebApp\bin\System.Web.Http.WebHost.dll
+C:\Users\Jay\Desktop\DigitalTurbine\DigitalTurbine\WebApp\bin\System.Web.Mvc.dll
+C:\Users\Jay\Desktop\DigitalTurbine\DigitalTurbine\WebApp\bin\System.Web.Optimization.dll
+C:\Users\Jay\Desktop\DigitalTurbine\DigitalTurbine\WebApp\bin\System.Web.Providers.dll
+C:\Users\Jay\Desktop\DigitalTurbine\DigitalTurbine\WebApp\bin\System.Web.Razor.dll
+C:\Users\Jay\Desktop\DigitalTurbine\DigitalTurbine\WebApp\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Jay\Desktop\DigitalTurbine\DigitalTurbine\WebApp\bin\System.Web.WebPages.dll
+C:\Users\Jay\Desktop\DigitalTurbine\DigitalTurbine\WebApp\bin\System.Web.WebPages.Razor.dll
+C:\Users\Jay\Desktop\DigitalTurbine\DigitalTurbine\WebApp\bin\WebGrease.dll
+C:\Users\Jay\Desktop\DigitalTurbine\DigitalTurbine\WebApp\bin\Common.pdb
+C:\Users\Jay\Desktop\DigitalTurbine\DigitalTurbine\WebApp\bin\MODEL.pdb
+C:\Users\Jay\Desktop\DigitalTurbine\DigitalTurbine\WebApp\bin\EntityFramework.xml
+C:\Users\Jay\Desktop\DigitalTurbine\DigitalTurbine\WebApp\bin\Newtonsoft.Json.xml
+C:\Users\Jay\Desktop\DigitalTurbine\DigitalTurbine\WebApp\bin\System.Net.Http.Formatting.xml
+C:\Users\Jay\Desktop\DigitalTurbine\DigitalTurbine\WebApp\bin\System.Web.Http.xml
+C:\Users\Jay\Desktop\DigitalTurbine\DigitalTurbine\WebApp\bin\System.Web.Http.WebHost.xml
+C:\Users\Jay\Desktop\DigitalTurbine\DigitalTurbine\WebApp\bin\System.Web.Mvc.xml
+C:\Users\Jay\Desktop\DigitalTurbine\DigitalTurbine\WebApp\bin\System.Web.Razor.xml
+C:\Users\Jay\Desktop\DigitalTurbine\DigitalTurbine\WebApp\bin\System.Web.WebPages.xml
+C:\Users\Jay\Desktop\DigitalTurbine\DigitalTurbine\WebApp\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Jay\Desktop\DigitalTurbine\DigitalTurbine\WebApp\bin\System.Web.WebPages.Razor.xml
+C:\Users\Jay\Desktop\DigitalTurbine\DigitalTurbine\WebApp\bin\zh-Hans\EntityFramework.resources.dll
+C:\Users\Jay\Desktop\DigitalTurbine\DigitalTurbine\WebApp\bin\zh-Hans\System.Net.Http.Formatting.resources.dll
+C:\Users\Jay\Desktop\DigitalTurbine\DigitalTurbine\WebApp\bin\zh-Hans\System.Web.Http.resources.dll
+C:\Users\Jay\Desktop\DigitalTurbine\DigitalTurbine\WebApp\bin\zh-Hans\System.Web.Http.WebHost.resources.dll
+C:\Users\Jay\Desktop\DigitalTurbine\DigitalTurbine\WebApp\bin\zh-Hans\System.Web.Mvc.resources.dll
+C:\Users\Jay\Desktop\DigitalTurbine\DigitalTurbine\WebApp\bin\zh-Hans\System.Web.Optimization.resources.dll
+C:\Users\Jay\Desktop\DigitalTurbine\DigitalTurbine\WebApp\bin\zh-Hans\System.Web.Providers.resources.dll
+C:\Users\Jay\Desktop\DigitalTurbine\DigitalTurbine\WebApp\bin\zh-Hans\System.Web.Razor.resources.dll
+C:\Users\Jay\Desktop\DigitalTurbine\DigitalTurbine\WebApp\bin\zh-Hans\System.Web.WebPages.resources.dll
+C:\Users\Jay\Desktop\DigitalTurbine\DigitalTurbine\WebApp\bin\zh-Hans\System.Web.WebPages.Deployment.resources.dll
+C:\Users\Jay\Desktop\DigitalTurbine\DigitalTurbine\WebApp\bin\zh-Hans\System.Web.WebPages.Razor.resources.dll
+C:\Users\Jay\Desktop\DigitalTurbine\DigitalTurbine\WebApp\obj\Debug\WebApp.csprojResolveAssemblyReference.cache
+C:\Users\Jay\Desktop\DigitalTurbine\DigitalTurbine\WebApp\obj\Debug\WebApp.dll
+C:\Users\Jay\Desktop\DigitalTurbine\DigitalTurbine\WebApp\obj\Debug\WebApp.pdb
+C:\Users\Jay\Desktop\DigitalTurbine\DigitalTurbine\WebApp\bin\BLL.dll
+C:\Users\Jay\Desktop\DigitalTurbine\DigitalTurbine\WebApp\bin\BLL.pdb
+C:\Users\Peter\Documents\Tencent Files\175643579\FileRecv\DigitalTurbine\DigitalTurbine\WebApp\bin\WebApp.dll.config
+C:\Users\Peter\Documents\Tencent Files\175643579\FileRecv\DigitalTurbine\DigitalTurbine\WebApp\bin\WebApp.dll
+C:\Users\Peter\Documents\Tencent Files\175643579\FileRecv\DigitalTurbine\DigitalTurbine\WebApp\bin\WebApp.pdb
+C:\Users\Peter\Documents\Tencent Files\175643579\FileRecv\DigitalTurbine\DigitalTurbine\WebApp\bin\Antlr3.Runtime.dll
+C:\Users\Peter\Documents\Tencent Files\175643579\FileRecv\DigitalTurbine\DigitalTurbine\WebApp\bin\BLL.dll
+C:\Users\Peter\Documents\Tencent Files\175643579\FileRecv\DigitalTurbine\DigitalTurbine\WebApp\bin\Common.dll
+C:\Users\Peter\Documents\Tencent Files\175643579\FileRecv\DigitalTurbine\DigitalTurbine\WebApp\bin\EntityFramework.dll
+C:\Users\Peter\Documents\Tencent Files\175643579\FileRecv\DigitalTurbine\DigitalTurbine\WebApp\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Peter\Documents\Tencent Files\175643579\FileRecv\DigitalTurbine\DigitalTurbine\WebApp\bin\MODEL.dll
+C:\Users\Peter\Documents\Tencent Files\175643579\FileRecv\DigitalTurbine\DigitalTurbine\WebApp\bin\Newtonsoft.Json.dll
+C:\Users\Peter\Documents\Tencent Files\175643579\FileRecv\DigitalTurbine\DigitalTurbine\WebApp\bin\System.Web.Optimization.dll
+C:\Users\Peter\Documents\Tencent Files\175643579\FileRecv\DigitalTurbine\DigitalTurbine\WebApp\bin\System.Web.Providers.dll
+C:\Users\Peter\Documents\Tencent Files\175643579\FileRecv\DigitalTurbine\DigitalTurbine\WebApp\bin\System.Web.Razor.dll
+C:\Users\Peter\Documents\Tencent Files\175643579\FileRecv\DigitalTurbine\DigitalTurbine\WebApp\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Peter\Documents\Tencent Files\175643579\FileRecv\DigitalTurbine\DigitalTurbine\WebApp\bin\System.Web.WebPages.dll
+C:\Users\Peter\Documents\Tencent Files\175643579\FileRecv\DigitalTurbine\DigitalTurbine\WebApp\bin\System.Web.WebPages.Razor.dll
+C:\Users\Peter\Documents\Tencent Files\175643579\FileRecv\DigitalTurbine\DigitalTurbine\WebApp\bin\WebGrease.dll
+C:\Users\Peter\Documents\Tencent Files\175643579\FileRecv\DigitalTurbine\DigitalTurbine\WebApp\bin\BLL.pdb
+C:\Users\Peter\Documents\Tencent Files\175643579\FileRecv\DigitalTurbine\DigitalTurbine\WebApp\bin\Common.pdb
+C:\Users\Peter\Documents\Tencent Files\175643579\FileRecv\DigitalTurbine\DigitalTurbine\WebApp\bin\MODEL.pdb
+C:\Users\Peter\Documents\Tencent Files\175643579\FileRecv\DigitalTurbine\DigitalTurbine\WebApp\bin\EntityFramework.xml
+C:\Users\Peter\Documents\Tencent Files\175643579\FileRecv\DigitalTurbine\DigitalTurbine\WebApp\bin\Newtonsoft.Json.xml
+C:\Users\Peter\Documents\Tencent Files\175643579\FileRecv\DigitalTurbine\DigitalTurbine\WebApp\bin\System.Web.Razor.xml
+C:\Users\Peter\Documents\Tencent Files\175643579\FileRecv\DigitalTurbine\DigitalTurbine\WebApp\bin\System.Web.WebPages.xml
+C:\Users\Peter\Documents\Tencent Files\175643579\FileRecv\DigitalTurbine\DigitalTurbine\WebApp\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Peter\Documents\Tencent Files\175643579\FileRecv\DigitalTurbine\DigitalTurbine\WebApp\bin\System.Web.WebPages.Razor.xml
+C:\Users\Peter\Documents\Tencent Files\175643579\FileRecv\DigitalTurbine\DigitalTurbine\WebApp\bin\zh-Hans\EntityFramework.resources.dll
+C:\Users\Peter\Documents\Tencent Files\175643579\FileRecv\DigitalTurbine\DigitalTurbine\WebApp\bin\zh-Hans\System.Web.Optimization.resources.dll
+C:\Users\Peter\Documents\Tencent Files\175643579\FileRecv\DigitalTurbine\DigitalTurbine\WebApp\bin\zh-Hans\System.Web.Providers.resources.dll
+C:\Users\Peter\Documents\Tencent Files\175643579\FileRecv\DigitalTurbine\DigitalTurbine\WebApp\bin\zh-Hans\System.Web.Razor.resources.dll
+C:\Users\Peter\Documents\Tencent Files\175643579\FileRecv\DigitalTurbine\DigitalTurbine\WebApp\bin\zh-Hans\System.Web.WebPages.resources.dll
+C:\Users\Peter\Documents\Tencent Files\175643579\FileRecv\DigitalTurbine\DigitalTurbine\WebApp\bin\zh-Hans\System.Web.WebPages.Deployment.resources.dll
+C:\Users\Peter\Documents\Tencent Files\175643579\FileRecv\DigitalTurbine\DigitalTurbine\WebApp\bin\zh-Hans\System.Web.WebPages.Razor.resources.dll
+C:\Users\Peter\Documents\Tencent Files\175643579\FileRecv\DigitalTurbine\DigitalTurbine\WebApp\obj\Debug\WebApp.csprojResolveAssemblyReference.cache
+C:\Users\Peter\Documents\Tencent Files\175643579\FileRecv\DigitalTurbine\DigitalTurbine\WebApp\obj\Debug\WebApp.dll
+C:\Users\Peter\Documents\Tencent Files\175643579\FileRecv\DigitalTurbine\DigitalTurbine\WebApp\obj\Debug\WebApp.pdb
+F:\DigitalTurbine\DigitalTurbine\WebApp\bin\WebApp.dll.config
+F:\DigitalTurbine\DigitalTurbine\WebApp\bin\WebApp.dll
+F:\DigitalTurbine\DigitalTurbine\WebApp\bin\WebApp.pdb
+F:\DigitalTurbine\DigitalTurbine\WebApp\bin\Antlr3.Runtime.dll
+F:\DigitalTurbine\DigitalTurbine\WebApp\bin\BLL.dll
+F:\DigitalTurbine\DigitalTurbine\WebApp\bin\Common.dll
+F:\DigitalTurbine\DigitalTurbine\WebApp\bin\EntityFramework.dll
+F:\DigitalTurbine\DigitalTurbine\WebApp\bin\Microsoft.Web.Infrastructure.dll
+F:\DigitalTurbine\DigitalTurbine\WebApp\bin\MODEL.dll
+F:\DigitalTurbine\DigitalTurbine\WebApp\bin\Newtonsoft.Json.dll
+F:\DigitalTurbine\DigitalTurbine\WebApp\bin\System.Web.Optimization.dll
+F:\DigitalTurbine\DigitalTurbine\WebApp\bin\System.Web.Providers.dll
+F:\DigitalTurbine\DigitalTurbine\WebApp\bin\System.Web.Razor.dll
+F:\DigitalTurbine\DigitalTurbine\WebApp\bin\System.Web.WebPages.Deployment.dll
+F:\DigitalTurbine\DigitalTurbine\WebApp\bin\System.Web.WebPages.dll
+F:\DigitalTurbine\DigitalTurbine\WebApp\bin\System.Web.WebPages.Razor.dll
+F:\DigitalTurbine\DigitalTurbine\WebApp\bin\WebGrease.dll
+F:\DigitalTurbine\DigitalTurbine\WebApp\bin\BLL.pdb
+F:\DigitalTurbine\DigitalTurbine\WebApp\bin\Common.pdb
+F:\DigitalTurbine\DigitalTurbine\WebApp\bin\MODEL.pdb
+F:\DigitalTurbine\DigitalTurbine\WebApp\bin\EntityFramework.xml
+F:\DigitalTurbine\DigitalTurbine\WebApp\bin\Newtonsoft.Json.xml
+F:\DigitalTurbine\DigitalTurbine\WebApp\bin\System.Web.Razor.xml
+F:\DigitalTurbine\DigitalTurbine\WebApp\bin\System.Web.WebPages.xml
+F:\DigitalTurbine\DigitalTurbine\WebApp\bin\System.Web.WebPages.Deployment.xml
+F:\DigitalTurbine\DigitalTurbine\WebApp\bin\System.Web.WebPages.Razor.xml
+F:\DigitalTurbine\DigitalTurbine\WebApp\bin\zh-Hans\EntityFramework.resources.dll
+F:\DigitalTurbine\DigitalTurbine\WebApp\bin\zh-Hans\System.Web.Optimization.resources.dll
+F:\DigitalTurbine\DigitalTurbine\WebApp\bin\zh-Hans\System.Web.Providers.resources.dll
+F:\DigitalTurbine\DigitalTurbine\WebApp\bin\zh-Hans\System.Web.Razor.resources.dll
+F:\DigitalTurbine\DigitalTurbine\WebApp\bin\zh-Hans\System.Web.WebPages.resources.dll
+F:\DigitalTurbine\DigitalTurbine\WebApp\bin\zh-Hans\System.Web.WebPages.Deployment.resources.dll
+F:\DigitalTurbine\DigitalTurbine\WebApp\bin\zh-Hans\System.Web.WebPages.Razor.resources.dll
+F:\DigitalTurbine\DigitalTurbine\WebApp\obj\Debug\WebApp.csprojResolveAssemblyReference.cache
+F:\DigitalTurbine\DigitalTurbine\WebApp\obj\Debug\WebApp.dll
+F:\DigitalTurbine\DigitalTurbine\WebApp\obj\Debug\WebApp.pdb
+E:\GitHub\DigitalTurbine\DigitalTurbine\WebApp\bin\WebApp.dll.config
+E:\GitHub\DigitalTurbine\DigitalTurbine\WebApp\bin\WebApp.dll
+E:\GitHub\DigitalTurbine\DigitalTurbine\WebApp\bin\WebApp.pdb
+E:\GitHub\DigitalTurbine\DigitalTurbine\WebApp\bin\Antlr3.Runtime.dll
+E:\GitHub\DigitalTurbine\DigitalTurbine\WebApp\bin\BLL.dll
+E:\GitHub\DigitalTurbine\DigitalTurbine\WebApp\bin\Common.dll
+E:\GitHub\DigitalTurbine\DigitalTurbine\WebApp\bin\EntityFramework.dll
+E:\GitHub\DigitalTurbine\DigitalTurbine\WebApp\bin\Microsoft.Web.Infrastructure.dll
+E:\GitHub\DigitalTurbine\DigitalTurbine\WebApp\bin\MODEL.dll
+E:\GitHub\DigitalTurbine\DigitalTurbine\WebApp\bin\Newtonsoft.Json.dll
+E:\GitHub\DigitalTurbine\DigitalTurbine\WebApp\bin\System.Web.Optimization.dll
+E:\GitHub\DigitalTurbine\DigitalTurbine\WebApp\bin\System.Web.Providers.dll
+E:\GitHub\DigitalTurbine\DigitalTurbine\WebApp\bin\System.Web.Razor.dll
+E:\GitHub\DigitalTurbine\DigitalTurbine\WebApp\bin\System.Web.WebPages.Deployment.dll
+E:\GitHub\DigitalTurbine\DigitalTurbine\WebApp\bin\System.Web.WebPages.dll
+E:\GitHub\DigitalTurbine\DigitalTurbine\WebApp\bin\System.Web.WebPages.Razor.dll
+E:\GitHub\DigitalTurbine\DigitalTurbine\WebApp\bin\WebGrease.dll
+E:\GitHub\DigitalTurbine\DigitalTurbine\WebApp\bin\BLL.pdb
+E:\GitHub\DigitalTurbine\DigitalTurbine\WebApp\bin\Common.pdb
+E:\GitHub\DigitalTurbine\DigitalTurbine\WebApp\bin\MODEL.pdb
+E:\GitHub\DigitalTurbine\DigitalTurbine\WebApp\bin\EntityFramework.xml
+E:\GitHub\DigitalTurbine\DigitalTurbine\WebApp\bin\Newtonsoft.Json.xml
+E:\GitHub\DigitalTurbine\DigitalTurbine\WebApp\bin\System.Web.Razor.xml
+E:\GitHub\DigitalTurbine\DigitalTurbine\WebApp\bin\System.Web.WebPages.xml
+E:\GitHub\DigitalTurbine\DigitalTurbine\WebApp\bin\System.Web.WebPages.Deployment.xml
+E:\GitHub\DigitalTurbine\DigitalTurbine\WebApp\bin\System.Web.WebPages.Razor.xml
+E:\GitHub\DigitalTurbine\DigitalTurbine\WebApp\bin\zh-Hans\EntityFramework.resources.dll
+E:\GitHub\DigitalTurbine\DigitalTurbine\WebApp\bin\zh-Hans\System.Web.Optimization.resources.dll
+E:\GitHub\DigitalTurbine\DigitalTurbine\WebApp\bin\zh-Hans\System.Web.Providers.resources.dll
+E:\GitHub\DigitalTurbine\DigitalTurbine\WebApp\bin\zh-Hans\System.Web.Razor.resources.dll
+E:\GitHub\DigitalTurbine\DigitalTurbine\WebApp\bin\zh-Hans\System.Web.WebPages.resources.dll
+E:\GitHub\DigitalTurbine\DigitalTurbine\WebApp\bin\zh-Hans\System.Web.WebPages.Deployment.resources.dll
+E:\GitHub\DigitalTurbine\DigitalTurbine\WebApp\bin\zh-Hans\System.Web.WebPages.Razor.resources.dll
+E:\GitHub\DigitalTurbine\DigitalTurbine\WebApp\obj\Debug\WebApp.csprojResolveAssemblyReference.cache
+E:\GitHub\DigitalTurbine\DigitalTurbine\WebApp\obj\Debug\WebApp.dll
+E:\GitHub\DigitalTurbine\DigitalTurbine\WebApp\obj\Debug\WebApp.pdb

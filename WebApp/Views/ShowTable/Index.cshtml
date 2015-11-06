@@ -1,0 +1,36 @@
+﻿@model  WebApp.Models.ShowTableViewModel
+
+@{
+    ViewBag.Title = "Index";
+}
+
+<script type="text/javascript">
+    $(function () {
+        $("#PersonRaces").change(function () {
+            $('#loading-image').show();
+            var typevalue = $("#PersonRaces").val();
+       
+            $.ajax({
+                type: "GET",
+                url: "/ShowTable/ChangeRace",
+                data: { linktype: typevalue },
+                dataType: "html",
+                success: function (evt) {
+                    $('#grid').html(evt);
+                },
+                complete: function () {
+                    $('#loading-image').hide();
+                }
+            });
+        });
+    });
+</script>
+
+@Html.DropDownList("PersonRaces", (IEnumerable<SelectListItem>)ViewData["PersonRaces"],
+                      string.Empty)
+
+<img src="~/Content/Image/spinner-big.gif" id="loading-image" height="20" width="20" hidden="hidden">
+
+@{
+    Html.RenderPartial("TablePartial", Model.PersonList);
+}
